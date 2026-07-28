@@ -1,7 +1,7 @@
 # E-Bot English Practice Chatbot - 2024
 ### Practice English conversation using AI
 
-Live Demo:<br>
+Live Demo - 2024 version:<br>
 https://e-bot.woza.work/
 
 E-Bot is an AI voice agent. Voice agents combine speech with the reasoning abilities of LLMs (Large Language Models). This combination creates realtime and human-like voice interactions. In this project the voice agent is an AI English teacher that helps learners practice English conversation.
