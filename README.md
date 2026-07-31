@@ -1,7 +1,7 @@
 # E-Bot English Practice Chatbot - 2024
 ### Practice English conversation using AI
 
-Live Demo - 2024 version:<br>
+Live Demo - 2024 version<br>
 https://e-bot.woza.work/
 
 E-Bot - 2026 version<br>
